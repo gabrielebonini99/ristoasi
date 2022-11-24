@@ -15,7 +15,8 @@ Il sito-web è in manutenzione. Mancano solo **7 giorni** alla pubblicazione.
 
 ## Dove ci troviamo
 
-**Sede** Via Giuseppe Garibaldi, 10 Isola della Scala VR
+Via Giuseppe Garibaldi, 10 Isola della Scala VR (sede)
+Via Paradiso, 8 Caselle di Sommacampagna VR (uffici)
 
 ## Come contattarci
 
