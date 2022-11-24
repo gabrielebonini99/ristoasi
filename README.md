@@ -21,7 +21,3 @@ Via Paradiso, 8 Caselle di Sommacampagna VR
 +39 045 858 2049
 info@ristoasi.com
 ```
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
