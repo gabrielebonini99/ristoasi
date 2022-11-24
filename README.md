@@ -15,17 +15,17 @@ Il sito-web è in manutenzione. Mancano solo **7 giorni** alla pubblicazione.
 
 ## Dove ci troviamo
 
-```bash
+```
 Via Giuseppe Garibaldi, 10 Isola della Scala VR
 Via Paradiso, 8 Caselle di Sommacampagna VR
 ```
 
 ## Come contattarci
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+```
++39 045 858 2049
+info@ristoasi.com
+```
 
 ## License
 
