@@ -2,7 +2,6 @@
 
 Il sito-web è in manutenzione. Mancano solo **7 giorni** alla pubblicazione.
 
-##
 
 ```La Corte```
 ```La Tonda```
