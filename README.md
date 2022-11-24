@@ -1,6 +1,6 @@
 # Ristoasi SRL - Ristorazione Mediterranea dal 2001
 
-Il sito-web è in manutenzione. Verrà pubblicato il 1° dicembre!
+Il sito-web è in manutenzione. Verrà pubblicato l'01/12.
 
 ## Installation
 
