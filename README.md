@@ -13,7 +13,11 @@ Il sito-web è in manutenzione. Mancano solo **7 giorni** alla pubblicazione.
 ```Makeroni```
 ```Villa Eire```
 
-## Contatti
+## Dove ci troviamo
+
+```Sede``` Via Giuseppe Garibaldi, 10 Isola della Scala VR
+
+## Come contattarci
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
