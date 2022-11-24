@@ -1,4 +1,4 @@
-# Foobar
+# Ristoasi SRL - Ristorazione Mediterranea dal 2001
 
 Foobar is a Python library for dealing with word pluralization.
 
