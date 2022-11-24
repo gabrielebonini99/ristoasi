@@ -13,14 +13,10 @@ Il sito-web è in manutenzione. Mancano solo **7 giorni** alla pubblicazione.
 ```Makeroni```
 ```Villa Eire```
 
-## Dove ci troviamo
-
 ```
 Via Giuseppe Garibaldi, 10 Isola della Scala VR
 Via Paradiso, 8 Caselle di Sommacampagna VR
 ```
-
-## Come contattarci
 
 ```
 +39 045 858 2049
