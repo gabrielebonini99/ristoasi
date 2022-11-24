@@ -5,6 +5,8 @@ Il sito-web è in manutenzione. Mancano solo **7 giorni** alla pubblicazione.
 ## I Nostri Locali
 
 ```La Corte```
+
+[MIT](https://choosealicense.com/licenses/mit/)
 ```La Tonda```
 ```Guné```
 ```Antico Casale```
