@@ -4,9 +4,7 @@ Il sito-web è in manutenzione. Mancano solo **7 giorni** alla pubblicazione.
 
 ## I Nostri Locali
 
-```
-La Corte
-```
+```La Corte```
 ```La Tonda```
 ```Guné```
 ```Antico Casale```
