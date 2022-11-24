@@ -10,7 +10,6 @@ Il sito-web è in manutenzione. Mancano solo **7 giorni** alla pubblicazione.
 ```Le Scuderie```
 ```La Cascina```
 ```Makeroni```
-```Villa Eire```
 
 ```
 Via Giuseppe Garibaldi, 10 Isola della Scala VR
