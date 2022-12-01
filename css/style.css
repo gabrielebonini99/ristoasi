@@ -87,7 +87,7 @@ p a:hover {
 }
 #body > div img {
 	border: 2px solid #292929;
-	margin: 24px 0 0;
+	margin: 35px 0 0;
 	padding: 0;
 }
 #body > div .article {
@@ -127,7 +127,7 @@ p a:hover {
 }
 #body div ul {
 	margin: 0;
-	padding: 24px 10px 0;
+	padding: 35px 10px 0;
 	width: 940px;
 }
 #body div ul li {
