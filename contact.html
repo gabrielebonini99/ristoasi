@@ -42,13 +42,16 @@
 <img src=img/banner2.jpg alt="">
 </div>
 <h1><span>COMPILA IL MODULO</span></h1>
-<form action=contact.html>
-<input name=fname id=fname placeholder=Nome>
-<input name=address id=address placeholder=Indirizzo>
-<input name=email id=email placeholder=Email>
-<input name=phone id=phone placeholder=Numero>
-<textarea name=message id=message placeholder=Messaggio></textarea>
-<input type=submit name=send id=send value="Invia messaggio">
+<form action=https://api.web3forms.com/submit method=POST>
+<input type=hidden name=access_key value=b0bdd927-3326-42b3-94fb-24d24fa85749>
+<input type=hidden name=redirect value=https://ristoasi.com/success.html>
+<input type=hidden name=from_name value="Ristoasi SRL">
+<input type=text name=name placeholder=Nome required>
+<input type=text name=surname placeholder=Cognome required>
+<input type=email name=email placeholder=Email required>
+<input type=text name=subject placeholder=Oggetto required>
+<textarea name=message placeholder=Messaggio required></textarea>
+<input type=submit name=send value="Invia messaggio">
 </form>
 </div>
 <div id=footer>
