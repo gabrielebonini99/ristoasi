@@ -307,12 +307,13 @@ p a:hover {
 }
 #body form #send {
 	background: #252525;
+	border: 2px solid #252525;
 	color: #fff;
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 16px;
-        text-transform: uppercase;
 	display: inline-block;
 	padding: 20px 28px;
+	margin: 0 0 37px;
 	width: auto;
 }
 #body form #send:hover {
