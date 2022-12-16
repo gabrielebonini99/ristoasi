@@ -150,11 +150,6 @@ p a:hover {
 	display: block;
 	margin: 0;
 	padding: 0;
-	opacity: 0.8;
-	transition: 0.5s ease-in-out;
-}
-#body div ul li .figure:hover img {
-	opacity: 1;
 }
 #body div ul li div {
 	float: left;
