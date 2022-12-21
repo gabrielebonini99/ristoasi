@@ -253,6 +253,9 @@ p a:hover {
 	padding: 0;
 	width: 300px;
 }
+#body > ul li.gallery {
+	margin-bottom: 20px;
+}
 #body > ul li a {
 	color: #000;
 	display: block;
