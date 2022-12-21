@@ -272,11 +272,13 @@ p a:hover {
 	display: block;
 	margin: 0;
 	padding: 0;
-        filter: saturate(.5);
-        transition: 0.5s ease-in-out;
 }
-#body > ul li a:hover img {
-        filter: saturate(1);
+#body > ul li a img.restaurant {
+	filter: saturate(.5);
+	transition: 0.5s ease-in-out;
+}
+#body > ul li a img.restaurant:hover {
+	filter: saturate(1);
 }
 #body > ul li a span {
 	display: block;
