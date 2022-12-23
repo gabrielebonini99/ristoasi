@@ -425,35 +425,3 @@ p a:hover {
  text-indent: -99999px;
  width: 44px;
 }
-
-#footer div ul li #twitter {
- background-position: 0 0;
-}
-
-#footer div ul li #twitter:hover {
- background-position: -44px 0;
-}
-
-#footer div ul li #facebook {
- background-position: 0 -44px;
-}
-
-#footer div ul li #facebook:hover {
- background-position: -44px -44px;
-}
-
-#footer div ul li #googleplus {
- background-position: 0 -88px;
-}
-
-#footer div ul li #googleplus:hover {
- background-position: -44px -88px;
-}
-
-#footer div ul li #pinterest {
- background-position: 0 -132px;
-}
-
-#footer div ul li #pinterest:hover {
- background-position: -44px -132px;
-}
