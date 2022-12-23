@@ -394,6 +394,11 @@ p a:hover {
  color: #fff;
 }
 
+#footer div p a {
+ color: #898989;
+ text-decoration: none;
+}
+
 #footer div ul {
  display: block;
  float: right;
