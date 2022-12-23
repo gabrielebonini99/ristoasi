@@ -392,6 +392,7 @@ p a:hover {
 
 #footer div p {
  color: #fff;
+ margin: 0 0 0 10px;
 }
 
 #footer div p a {
