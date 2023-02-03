@@ -43,14 +43,16 @@
 </div>
 <h1><span>COMPILA IL MODULO</span></h1>
 <p class=form>Una volta inviato correttamente il messaggio verrai reindirizzato alla pagina iniziale.</p>
-<form action=https://api.staticforms.xyz/submit method=POST>
-<input type=hidden name=accessKey value=1073d53a-0b4f-4503-bb07-cf799ddcadb2>
-<input type=hidden name=redirectTo value=https://ristoasi.com>
-<input type=hidden name=subject value="contact Ristoasi SRL">
+<form action=https://api.web3forms.com/submit method=POST>
+<input type=hidden name=access_key value=9f811ab8-7aca-4d4a-a817-4811384fd3b2>
+<input type=hidden name=redirect value=https://ristoasi.com>
+<input type=hidden name=from_name value="Ristoasi SRL">
+<input type="checkbox" name="botcheck" class="hidden" style="display: none;">
 <input type=text name=name placeholder=Nome required>
 <input type=email name=email placeholder=Email required>
+<input type=text name=subject placeholder=Oggetto required>
 <textarea name=message placeholder=Messaggio required></textarea>
-<input type="submit" value="Submit" />
+<button type=submit id=send>INVIA MESSAGGIO</button>
 </form>
 </div>
 <div id=footer>
