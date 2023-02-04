@@ -43,12 +43,11 @@
 </div>
 <h1><span>COMPILA IL MODULO</span></h1>
 <p class=form>Una volta inviato correttamente il messaggio verrai reindirizzato alla pagina iniziale.</p>
-<form action=https://submit-form.com/4u0OAkLH>
-<input type=hidden name=_email.from value="Ristoasi SRL">
-<input type=hidden name=_email.subject value="Nuova prenotazione">
-<input type=hidden name=_email.template.title value=false>
-<input type=hidden name=_email.template.footer value=false>
-<input type=hidden name=_redirect value=https://ristoasi.com/thanks>
+<form action=https://api.web3forms.com/submit method=POST>
+<input type=hidden name=access_key value=9f811ab8-7aca-4d4a-a817-4811384fd3b2>
+<input type=hidden name=redirect value=https://ristoasi.com>
+<input type=hidden name=from_name value="Ristoasi SRL">
+<input type="checkbox" name="botcheck" class="hidden" style="display: none;">
 <input type=text name=name placeholder=Nome required>
 <input type=email name=email placeholder=Email required>
 <input type=text name=subject placeholder=Oggetto required>
