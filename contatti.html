@@ -50,9 +50,12 @@
 <input type=hidden name=_email.subject value="Nuovo messaggio">
 <input type=text name=name placeholder=Nome required>
 <input type=email name=email placeholder=Indirizzo e-mail required>
-<input type=radio name=place value=lacorte checked>
-<input type=radio name=place value=latonda>
-<input type=radio name=place value=gune>
+<select name=restaurant>
+<option value=lacorte>La Corte</option>
+<option value=latonda>La Tonda</option>
+<option value=gune>Guné</option>
+<option value=villaeire>Villa Eire</option>
+</select>
 <input type=text name=subject placeholder=Oggetto required>
 <textarea name=message placeholder=Messaggio required></textarea>
 <button type=submit id=send>INVIA MESSAGGIO</button>
