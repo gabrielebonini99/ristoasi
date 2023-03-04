@@ -439,3 +439,12 @@ a#CybotCookiebotDialogPoweredbyCybot, div#CybotCookiebotDialogPoweredByText {
 .CybotCookiebotDialogBodyBottomWrapper {
  display: none !important;
 }
+
+#CybotCookiebotDialogBodyButtonAccept {
+ background-color: #e6be00;
+ border-color: #e6be00;
+}
+
+#CybotCookiebotDialogBodyButtonDecline {
+ border-color: #e6be00;
+}
