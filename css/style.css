@@ -428,6 +428,10 @@ a#CybotCookiebotDialogPoweredbyCybot, div#CybotCookiebotDialogPoweredByText {
  display: none;
 }
 
+#CybotCookiebotDialogHeader {
+ display: none;
+}
+
 .CybotCookiebotDialogBodyBottomWrapper {
  display: none !important;
 }
