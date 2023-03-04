@@ -441,10 +441,10 @@ a#CybotCookiebotDialogPoweredbyCybot, div#CybotCookiebotDialogPoweredByText {
 }
 
 #CybotCookiebotDialogBodyButtonAccept {
- background-color: #e6be00;
- border-color: #e6be00;
+ background-color: #e6be00 !important;
+ border-color: #e6be00 !important;
 }
 
 #CybotCookiebotDialogBodyButtonDecline {
- border-color: #e6be00;
+ border-color: #e6be00 !important;
 }
