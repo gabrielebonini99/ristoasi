@@ -429,7 +429,7 @@ a#CybotCookiebotDialogPoweredbyCybot, div#CybotCookiebotDialogPoweredByText {
 }
 
 #CybotCookiebotDialogHeader {
- display: none;
+ display: none !important;
 }
 
 .CybotCookiebotDialogBodyBottomWrapper {
