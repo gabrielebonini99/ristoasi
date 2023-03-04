@@ -425,7 +425,7 @@ p a:hover {
 }
 
 .CybotCookiebotDialogContentWrapper {
- max-width: 1080px;
+ max-width: 1080px !important;
 }
 
 a#CybotCookiebotDialogPoweredbyCybot, div#CybotCookiebotDialogPoweredByText {
