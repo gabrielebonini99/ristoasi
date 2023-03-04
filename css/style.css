@@ -423,3 +423,19 @@ p a:hover {
  text-indent: -99999px;
  width: 44px;
 }
+
+.CybotCookiebotDialogContentWrapper {
+ max-width: 1080px;
+}
+
+a#CybotCookiebotDialogPoweredbyCybot, div#CybotCookiebotDialogPoweredByText {
+ display: none;
+}
+
+#CybotCookiebotDialogHeader {
+ display: none !important;
+}
+
+.CybotCookiebotDialogBodyBottomWrapper {
+ display: none !important;
+}
