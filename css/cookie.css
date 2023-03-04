@@ -1,0 +1,15 @@
+.CybotCookiebotDialogContentWrapper {
+ max-width: 1080px;
+}
+
+a#CybotCookiebotDialogPoweredbyCybot, div#CybotCookiebotDialogPoweredByText {
+ display: none;
+}
+
+#CybotCookiebotDialogHeader {
+ display: none !important;
+}
+
+.CybotCookiebotDialogBodyBottomWrapper {
+ display: none !important;
+}
