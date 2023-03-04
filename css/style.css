@@ -426,7 +426,7 @@ p a:hover {
 
 @media screen and (min-width: 1280px) {
  #CybotCookiebotDialog.CybotEdge .CybotCookiebotDialogContentWrapper {
-  max-width: 1080px;
+  max-width: 1080px !important;
  }
 }
 
