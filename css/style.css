@@ -429,5 +429,5 @@ a#CybotCookiebotDialogPoweredbyCybot, div#CybotCookiebotDialogPoweredByText {
 }
 
 .CybotCookiebotDialogBodyBottomWrapper {
- display: none;
+ display: none !important;
 }
