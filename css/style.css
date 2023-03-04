@@ -424,6 +424,12 @@ p a:hover {
  width: 44px;
 }
 
+@media screen and (min-width: 1280px) {
+ #CybotCookiebotDialog.CybotEdge .CybotCookiebotDialogContentWrapper {
+  max-width: 1080px;
+ }
+}
+
 a#CybotCookiebotDialogPoweredbyCybot, div#CybotCookiebotDialogPoweredByText {
  display: none;
 }
