@@ -424,7 +424,6 @@ p a:hover {
  width: 44px;
 }
 
-a#CybotCookiebotDialogPoweredbyCybot,
-div#CybotCookiebotDialogPoweredByText {
-  display: none;
+a#CybotCookiebotDialogPoweredbyCybot, div#CybotCookiebotDialogPoweredByText {
+ display: none;
 }
