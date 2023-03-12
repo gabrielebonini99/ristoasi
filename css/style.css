@@ -135,7 +135,7 @@ p a:hover {
  display: inline-block;
  font-family: 'Josefin Sans', sans-serif;
  font-size: 25px;
- font-weight: normal;
+ font-weight: 400;
  margin: 0 0 30px;
  padding: 8px 27px 10px;
 }
@@ -246,7 +246,7 @@ p a:hover {
  display: inline-block;
  font-family: 'Josefin Sans', sans-serif;
  font-size: 20px;
- font-weight: normal;
+ font-weight: 400;
  margin: 0 0 18px;
  padding: 23px 27px 20px;
 }
