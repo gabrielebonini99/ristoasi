@@ -80,15 +80,11 @@ p a:hover {
 
 #body h1 {
  color: #fff;
- display: inline;
- font-size: 35px;
-}
-
-#body h1 span {
  background: #252525;
  display: inline-block;
  padding: 21px 28px 12px;
  margin-top: 35px;
+ font-size: 35px;
 }
 
 #body > div {
