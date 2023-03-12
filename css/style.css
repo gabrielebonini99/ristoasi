@@ -115,6 +115,7 @@ body {
  margin: 10px 0 10px;
  font-size: 18px;
  font-weight: 300;
+ line-height: 24px;
 }
 
 #body div ul {
@@ -348,13 +349,6 @@ body {
  background: #252525;
  margin: 0;
  padding: 44px 0 42px;
-}
-
-#footer div {
- margin: 0 auto;
- overflow: hidden;
- padding: 0;
- width: 960px;
 }
 
 #footer p {
