@@ -357,19 +357,19 @@ body {
  width: 960px;
 }
 
-#footer div p {
+#footer p {
  color: #fff;
  text-align: center;
  line-height: 24px;
  margin: 0;
 }
 
-#footer div p a {
+#footer p a {
  color: #898989;
  text-decoration: none;
 }
 
-#footer div ul {
+#footer ul {
  display: block;
  float: right;
  margin: 0;
@@ -378,7 +378,7 @@ body {
  width: 256px;
 }
 
-#footer div ul li {
+#footer ul li {
  display: block;
  float: left;
  list-style: none;
@@ -387,7 +387,7 @@ body {
  width: 44px;
 }
 
-#footer div ul li a {
+#footer ul li a {
  background: url(../img/icons.jpg) no-repeat 0 0;
  display: block;
  height: 44px;
