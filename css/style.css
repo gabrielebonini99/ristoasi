@@ -8,21 +8,6 @@ body {
  padding: 0;
 }
 
-p {
- color: #252525;
- line-height: 24px;
- margin: 0;
-}
-
-p a {
- color: #252525;
- text-decoration: underline;
-}
-
-p a:hover {
- color: #898989;
-}
-
 #header {
  margin: 0 auto;
  padding: 35px 0 38px;
@@ -381,6 +366,8 @@ p a:hover {
 #footer div p {
  color: #fff;
  text-align: center;
+ line-height: 24px;
+ margin: 0;
 }
 
 #footer div p a {
