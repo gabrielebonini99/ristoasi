@@ -77,21 +77,21 @@ body {
  padding: 0;
 }
 
-#body > div .article {
+.article {
  margin: 0 auto;
  padding: 30px 30px 20px;
  width: 680px;
  text-align: justify;
 }
 
-#body > div .article h2 {
+.article h2 {
  font-family: 'Josefin Sans', sans-serif;
  font-size: 25px;
  font-weight: normal;
  margin: 0 0 30px;
 }
 
-#body > div .article h3 {
+.article h3 {
  color: #252525;
  line-height: 24px;
  margin: 0;
@@ -100,7 +100,7 @@ body {
  font-weight: 400;
 }
 
-#body > div .article h4 {
+.article h4 {
  background: #252525;
  color: #fff;
  display: inline-block;
@@ -111,7 +111,7 @@ body {
  padding: 8px 27px 10px;
 }
 
-#body > div .article p {
+.article p {
  margin: 10px 0 10px;
  font-size: 18px;
  font-weight: 300;
