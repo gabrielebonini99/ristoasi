@@ -1,11 +1,7 @@
 body {
- background: #fff;
  font-family: 'Josefin Sans', sans-serif;
  font-size: 14px;
- line-height: 1;
- min-width: 960px;
  margin: 0;
- padding: 0;
 }
 
 #header {
