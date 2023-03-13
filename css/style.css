@@ -67,12 +67,6 @@ body {
  font-size: 35px;
 }
 
-#body > div img {
- border: 2px solid #292929;
- margin: 35px 0 0;
- padding: 0;
-}
-
 .article {
  margin: 0 auto;
  padding: 30px 30px 20px;
@@ -112,74 +106,6 @@ body {
  font-size: 18px;
  font-weight: 300;
  line-height: 24px;
-}
-
-#body div ul {
- margin: 0;
- padding: 35px 10px 0;
- width: 940px;
-}
-
-#body div ul li {
- border: 2px solid #1a1a1a;
- display: block;
- list-style: none;
- margin: 0 0 13px;
- overflow: hidden;
- padding: 0;
-}
-
-#body div ul li .figure {
- border-right: 2px solid #1a1a1a;
- float: left;
- margin: 0;
- padding: 0;
- width: 376px;
-}
-
-#body div ul li img {
- border: 0;
- display: block;
- margin: 0;
- padding: 0;
-}
-
-#body div ul li div {
- float: left;
- margin: 0;
- padding: 69px 0 0;
- width: 558px;
-}
-
-#body div ul li div h3 {
- color: #252525;
- font-family: 'Josefin Sans', sans-serif;
- font-size: 25px;
- margin: 0;
- padding: 0;
-}
-
-#body div ul li div p {
- padding: 30px 40px 18px;
- font-weight: 300;
- font-size: 16px;
-}
-
-#body div ul li div a.more {
- background: #000;
- color: #fff;
- display: inline-block;
- font-family: 'Josefin Sans', sans-serif;
- font-size: 18px;
- margin: 0;
- padding: 10px 28px 7px;
- text-decoration: none;
-}
-
-#body div ul li div a.more:hover {
- color: #252525;
- background: #fff;
- border: 2px solid #252525;
 }
 
 #body #featured {
