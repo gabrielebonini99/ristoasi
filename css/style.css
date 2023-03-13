@@ -276,37 +276,9 @@ body {
  margin: 0;
 }
 
-#footer p a {
+#footer a {
  color: #898989;
  text-decoration: none;
-}
-
-#footer ul {
- display: block;
- float: right;
- margin: 0;
- overflow: hidden;
- padding: 0;
- width: 256px;
-}
-
-#footer ul li {
- display: block;
- float: left;
- list-style: none;
- margin: 0 10px;
- padding: 0;
- width: 44px;
-}
-
-#footer ul li a {
- background: url(../img/icons.jpg) no-repeat 0 0;
- display: block;
- height: 44px;
- margin: 0;
- padding: 0;
- text-indent: -99999px;
- width: 44px;
 }
 
 .CybotCookiebotDialogContentWrapper {
