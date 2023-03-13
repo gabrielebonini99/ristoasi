@@ -222,13 +222,13 @@ body {
  padding: 33px 0 0;
 }
 
-#body form {
+form {
  margin: 0 auto;
  padding-top: 35px;
  width: 620px;
 }
 
-#body form input, #body form textarea {
+form input, form textarea {
  border: 2px solid #252525;
  color: #252525;
  font-family: 'Josefin Sans', sans-serif;
@@ -239,13 +239,13 @@ body {
  width: 596px;
 }
 
-#body form textarea {
+form textarea {
  height: 175px;
  overflow: auto;
  resize: none;
 }
 
-#body form #send {
+form #send {
  background: #252525;
  border: 2px solid #252525;
  color: #fff;
@@ -257,7 +257,7 @@ body {
  width: auto;
 }
 
-#body form #send:hover {
+form #send:hover {
  background: #fff;
  color: #252525;
  cursor: pointer;
