@@ -18,13 +18,6 @@ body {
  width: 260px;
 }
 
-#header a.logo img {
- border: 0;
- display: block;
- margin: 0;
- padding: 0;
-}
-
 #header ul {
  margin: 0;
  padding: 50px 0 0;
