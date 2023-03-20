@@ -5,9 +5,10 @@ body {
 }
 
 #header {
- padding: 35px 0 38px;
- text-align: center;
- width: 960px;
+ display: flex;
+ position: fixed;
+ justify-content: space-between;
+ background-color: #252525;
 }
 
 #header a.logo {
