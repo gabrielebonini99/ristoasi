@@ -22,9 +22,6 @@ body {
 
 #header ul li a {
  color: #252525;
- display: inline-block;
- font-size: 16px;
- padding: 0 0 3px;
  text-decoration: none;
 }
 
