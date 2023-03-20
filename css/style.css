@@ -5,16 +5,11 @@ body {
 }
 
 #header {
+ width: 100%;
  display: flex;
  position: fixed;
  justify-content: space-between;
  background-color: #252525;
-}
-
-#header a.logo {
- display: block;
- margin: 0 auto;
- width: 260px;
 }
 
 #header ul {
