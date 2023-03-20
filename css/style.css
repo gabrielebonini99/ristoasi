@@ -5,7 +5,6 @@ body {
 }
 
 #header {
- margin: 0 auto;
  padding: 35px 0 38px;
  text-align: center;
  width: 960px;
@@ -40,7 +39,6 @@ body {
 }
 
 #body {
- margin: 0;
  padding: 0 0 30px;
  text-align: center;
 }
@@ -252,7 +250,6 @@ form #send:hover {
 
 #footer {
  background: #252525;
- margin: 0;
  padding: 44px 0 42px;
 }
 
