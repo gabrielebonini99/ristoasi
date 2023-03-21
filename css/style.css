@@ -7,7 +7,7 @@ body {
 #header {
  display: flex;
  justify-content: space-between;
- background-color: #252525;
+ background-color: #141414;
  padding: 10px 100px;
 }
 
@@ -233,7 +233,7 @@ form #send:hover {
 }
 
 #footer {
- background-color: #252525;
+ background-color: #141414;
  padding: 44px 0 42px;
 }
 
