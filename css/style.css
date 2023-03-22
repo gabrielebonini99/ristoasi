@@ -8,7 +8,7 @@ body {
  display: flex;
  justify-content: space-between;
  background-color: #141414;
- padding: 25px 100px 20px;
+ padding: 20px 100px 15px;
 }
 
 #header ul li {
