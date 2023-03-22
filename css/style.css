@@ -68,7 +68,7 @@ body {
 }
 
 .article h4 {
- background: #252525;
+ background-color: #252525;
  color: #fff;
  display: inline-block;
  font-family: 'Josefin Sans', sans-serif;
@@ -105,7 +105,7 @@ body {
 }
 
 #body #featured div h2 {
- background: #fff;
+ background-color: #fff;
  color: #000;
  display: inline-block;
  font-family: 'Josefin Sans', sans-serif;
@@ -116,7 +116,7 @@ body {
 }
 
 #body #featured div span {
- background: #252525;
+ background-color: #252525;
  color: #fff;
  display: inline-block;
  font-size: 20px;
@@ -125,7 +125,7 @@ body {
 }
 
 #body #featured div a {
- background: #0ba39c;
+ background-color: #0ba39c;
  color: #fff;
  display: inline-block;
  font-size: 16px;
@@ -220,19 +220,17 @@ form textarea {
 }
 
 form #send {
- background: #252525;
+ background-color: #252525;
  border: 2px solid #252525;
  color: #fff;
  font-family: 'Josefin Sans', sans-serif;
  font-size: 16px;
- display: inline-block;
  padding: 20px 28px;
  margin: 0 0 37px;
- width: auto;
 }
 
 form #send:hover {
- background: #fff;
+ background-color: #fff;
  color: #252525;
  cursor: pointer;
 }
