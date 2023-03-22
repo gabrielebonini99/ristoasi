@@ -11,17 +11,21 @@ body {
  padding: 20px 100px 15px;
 }
 
-#header ul li {
+.nav {
+ margin-top: 22px;
+}
+
+.nav ul li {
  display: inline;
  padding: 0 19px;
 }
 
-#header ul li a {
+.nav ul li a {
  color: #fff;
  text-decoration: none;
 }
 
-#header ul li a:hover, #header ul li.selected a {
+.nav ul li a:hover, .nav ul li.selected a {
  color: #b79800;
 }
 
