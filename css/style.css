@@ -201,7 +201,6 @@ form input, form textarea {
 
 form textarea {
  height: 175px;
- overflow: auto;
  resize: none;
 }
 
