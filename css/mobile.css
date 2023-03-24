@@ -202,6 +202,10 @@ body {
  line-height: 14px;
 }
 
+.pasqua {
+ max-width: 65%;
+}
+
 #body form {
  width: 100%;
 }
