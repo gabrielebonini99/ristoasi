@@ -219,6 +219,11 @@ form #send:hover {
  cursor: pointer;
 }
 
+.pasqua {
+ margin-top: 20px;
+ margin-bottom: 20px;
+}
+
 #footer {
  background-color: #141414;
  padding: 44px 0 42px;
