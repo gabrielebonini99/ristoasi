@@ -183,13 +183,13 @@ body {
  padding: 33px 0 0;
 }
 
-form .contact {
+#form {
  margin: 0 auto;
  padding-top: 35px;
  width: 620px;
 }
 
-form .contact input, form .contact textarea {
+#form input, #form textarea {
  border: 2px solid #252525;
  color: #252525;
  font-size: 16px;
@@ -199,12 +199,12 @@ form .contact input, form .contact textarea {
  width: 596px;
 }
 
-form .contact textarea {
+#form textarea {
  height: 175px;
  resize: none;
 }
 
-form .contact #send {
+#form #send {
  background-color: #252525;
  border: 2px solid #252525;
  color: #fff;
@@ -213,7 +213,7 @@ form .contact #send {
  margin: 0 0 37px;
 }
 
-form .contact #send:hover {
+#form #send:hover {
  background-color: #fff;
  color: #252525;
  cursor: pointer;
