@@ -13,6 +13,7 @@
 <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400" rel=stylesheet>
 <script src=js/mobile.js defer></script>
 <script src=js/main.js defer></script>
+<script src=https://ucarecdn.com/libs/widget/3.x/uploadcare.full.min.js defer></script>
 <script src=https://unpkg.com/@botpoison/browser defer></script>
 <script id=Cookiebot src=https://consent.cookiebot.com/uc.js data-cbid=1cf1677f-8b7e-400d-ad74-389013b4c7b7 data-blockingmode=auto defer></script>
 </head>
@@ -49,6 +50,7 @@
 <input type=text name=name placeholder=Nome required>
 <input type=email name=email placeholder="Indirizzo e-mail" required>
 <textarea name=message placeholder=Messaggio required></textarea>
+<input type=hidden name=photo role=uploadcare-uploader data-public-key=52b0a7bdbfe7aa89feb2>
 <button type=submit class=send>INVIA MESSAGGIO</button>
 </form>
 </div>
