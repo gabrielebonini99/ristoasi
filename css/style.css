@@ -236,6 +236,10 @@ body {
  text-decoration: none;
 }
 
+.uploadcare--powered-by.uploadcare--dialog__powered-by {
+ display: none !important;
+}
+
 .CybotCookiebotDialogContentWrapper {
  max-width: 1080px !important;
 }
