@@ -58,8 +58,4 @@ body {
  font-size: 15px;
 }
 
-#error #error-text a.button:hover, #igniel404 #error-text a.button:active {
- border: 0;
-}
-
 }
