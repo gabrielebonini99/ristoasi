@@ -28,27 +28,16 @@ body {
 }
 
 #error #error-text span {
- color: #c00;
  font-size: 100px;
 }
 
 #error #error-text a.button {
- background-color: #c00;
+ background-color: #666;
  color: #fff;
  text-decoration: none;
  padding: 10px 20px;
  font-size: 20px;
  transition-duration: 0.5s;
-}
-
-#error #error-text a.button:hover {
- background-color: #444;
- color: #fff;
-}
-
-#error #error-text a.button:active {
- background-color: #444;
- color: #fff;
 }
 
 #error #error-text #copyright {
