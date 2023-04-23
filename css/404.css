@@ -16,7 +16,7 @@ body {
 #error #error-text {
  position: relative;
  font-size: 40px;
- color: #666;
+ color: #141414;
  top: 50%;
  right: 50%;
  transform: translate(50%,-50%);
@@ -32,7 +32,7 @@ body {
 }
 
 #error #error-text a.button {
- background-color: #666;
+ background-color: #141414;
  color: #fff;
  text-decoration: none;
  padding: 10px 20px;
