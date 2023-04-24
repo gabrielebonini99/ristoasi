@@ -1,11 +1,9 @@
 body {
- font-family: 'Questrial', sans-serif;
  font-size: 1.2em;
  background: #eeeeee;
 }
 
 h1, h3 {
- font-family: 'Righteous', cursive;
  letter-spacing: 2px;
 }
 
@@ -43,7 +41,6 @@ li:hover {
 }
 
 .container {
- position: absolute;
  margin: 3em;
  text-align: center;
 }
