@@ -11,7 +11,7 @@
 
 .container .content {
 	text-align: center;
-	font-family: Roboto, sans-serif;
+	font-family: "Roboto", sans-serif;
 	letter-spacing: 1px;
 	padding: 60px;
 }
@@ -21,15 +21,15 @@
 	margin: 5px 0 10px;
 }
 
-.container small {
+.container p {
 	font-size: 14px;
 }
 
-.container small span {
-	color: orange;
+.container p red {
+	color: #ff0000;
 }
 
-.container small strong {
+.container p strong {
 	color: #008bea;
 	display: block;
 	margin-top: 7px;
