@@ -235,28 +235,3 @@ body {
  color: #898989;
  text-decoration: none;
 }
-
-.CybotCookiebotDialogContentWrapper {
- max-width: 1080px !important;
-}
-
-a#CybotCookiebotDialogPoweredbyCybot, div#CybotCookiebotDialogPoweredByText {
- display: none;
-}
-
-#CybotCookiebotDialogHeader {
- display: none !important;
-}
-
-.CybotCookiebotDialogBodyBottomWrapper {
- display: none !important;
-}
-
-#CybotCookiebotDialogBodyButtonAccept {
- background-color: #141414 !important;
- border-color: #141414 !important;
-}
-
-#CybotCookiebotDialogBodyButtonDecline {
- border-color: #141414 !important;
-}
