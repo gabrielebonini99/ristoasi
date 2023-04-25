@@ -1,4 +1,4 @@
-.container-flex {
+.container {
 	display: flex;
 	height: 100%;
 	width: 100%;
@@ -9,33 +9,29 @@
 	justify-content: center;
 }
 
-.container-flex .content {
+.container .content {
 	text-align: center;
 	font-family: Roboto, sans-serif;
+	font-weight: 300;
 	letter-spacing: 1px;
 	padding: 60px;
 }
 
-.container-flex h2 {
-	font-weight: 300;
+.container h2 {
 	font-size: 40px;
 	margin: 5px 0 10px;
 }
 
-.container-flex small {
-	font-weight: 300;
+.container small {
 	font-size: 14px;
 }
 
-.container-flex small span {
+.container small span {
 	color: orange;
-	font-weight: 500;
 }
 
-.container-flex small strong {
+.container small strong {
 	color: #008bea;
-	font-weight: 400;
 	display: block;
 	margin-top: 7px;
-	font-weight: 500;
 }
