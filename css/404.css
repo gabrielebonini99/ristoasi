@@ -1,37 +1,47 @@
-html, body {
- height: 100%;
- margin: 0;
-}
-
 body {
- align-items: center;
- background: #fff;
- display: flex;
- font-family: Gaegu, sans-serif;
- color: #333;
- font-size: 16px;
+	font-family: Roboto, sans-serif;
+	border: 0;
+	padding: 0;
 }
 
-.container {
- margin: 0 auto;
- padding: 2em;
- max-width: 32em;
+.container-flex {
+	display: flex;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	left: 0;
+	top: 0;
+	align-items: center;
+	justify-content: center;
 }
 
-h1 {
- font-size: 2.5em;
+.container-flex .content {
+	text-align: center;
+	letter-spacing: 1px;
+	padding: 60px;
 }
 
-p {
- font-size: 1.4em;
+.container-flex h2 {
+	display: block;
+	font-weight: 300;
+	font-size: 40px;
+	margin: 5px 0 10px;
 }
 
-a {
- text-decoration: none;
- color: #369;
+.container-flex small {
+	font-weight: 300;
+	font-size: 14px;
 }
 
-a:hover {
- background: #369;
- color: #fff;
+.container-flex small span {
+	color: orange;
+	font-weight: 500;
+}
+
+.container-flex small strong {
+	color: #008bea;
+	font-weight: 400;
+	display: block;
+	margin-top: 7px;
+	font-weight: 500;
 }
