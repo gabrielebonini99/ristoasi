@@ -235,3 +235,7 @@ body {
  color: #898989;
  text-decoration: none;
 }
+
+.csa-branding {
+ display: none;
+}
