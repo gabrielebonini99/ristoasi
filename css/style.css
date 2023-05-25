@@ -1,6 +1,6 @@
 body {
  font-family: 'Josefin Sans', sans-serif;
- font-size: 15px;
+ font-size: 14px;
  margin: 0;
 }
 
@@ -234,8 +234,4 @@ body {
 #footer a {
  color: #898989;
  text-decoration: none;
-}
-
-.csa-branding {
- display: none !important;
 }
