@@ -237,5 +237,5 @@ body {
 }
 
 .csa-branding {
- display: none;
+ display: none !important;
 }
