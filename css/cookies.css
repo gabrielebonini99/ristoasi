@@ -41,6 +41,10 @@
  color: inherit !important;
 }
 
+#CookiebotWidget .CookiebotWidget-consent-details button {
+ color: inherit !important;
+}
+
 .CookiebotWidget-main-logo {
  display: none !important;
 }
