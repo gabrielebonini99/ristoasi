@@ -14,6 +14,16 @@
  display: none !important;
 }
 
+#CybotCookiebotDialogPoweredbyCybot, #CybotCookiebotDialogPoweredbyLink {
+ width: auto !important;
+}
+
+#CybotCookiebotDialogPoweredbyCybot, #CybotCookiebotDialogPoweredbyLink::after {
+ content: 'Impostazioni dei cookie';
+ font-weight: 700;
+ margin-left: 20px;
+}
+
 #CybotCookiebotDialogNav {
  display: none !important;
 }
