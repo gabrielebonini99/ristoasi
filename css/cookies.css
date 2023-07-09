@@ -29,6 +29,10 @@
  opacity: 1 !important;
 }
 
+#CybotCookiebotDialog .CybotCookiebotDialogBodyLevelButtonSliderWrapper:hover input[type="checkbox"]:not(:disabled) + .CybotCookiebotDialogBodyLevelButtonSlider {
+ opacity: 1 !important;
+}
+
 #CybotCookiebotDialog.CybotEdge #CybotCookiebotDialogBodyEdgeMoreDetails a {
  color: inherit !important;
 }
