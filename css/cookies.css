@@ -110,3 +110,11 @@
 #CookiebotWidget #CookiebotWidget-buttons button:hover {
  opacity: 1 !important;
 }
+
+#CookiebotWidget #CookiebotWidget-buttons #CookiebotWidget-btn-withdraw {
+ border-color: #141414 !important;
+}
+
+#CookiebotWidget #CookiebotWidget-buttons #CookiebotWidget-btn-withdraw:disabled {
+ opacity: .4 !important;
+}
