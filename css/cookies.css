@@ -101,3 +101,12 @@
 .CookiebotWidget-main-logo {
  display: none !important;
 }
+
+#CookiebotWidget #CookiebotWidget-buttons #CookiebotWidget-btn-change {
+ background-color: #141414 !important;
+ border-color: #141414 !important;
+}
+
+#CookiebotWidget #CookiebotWidget-buttons button:hover {
+ opacity: 1 !important;
+}
