@@ -1,14 +1,6 @@
-#CybotCookiebotDialogPoweredbyLink {
- display: none !important;
-}
-
-#CybotCookiebotDialogPoweredbyCybot {
- display: none !important;
-}
-
 @media screen and (min-width: 1280px) {
  #CybotCookiebotDialog.CybotEdge #CybotCookiebotDialogHeader {
-  width: 0 !important;
+  display: none !important;
  }
 }
 
