@@ -32,6 +32,14 @@
  display: none !important;
 }
 
+@media screen and (min-width: 1280px) {
+ #CybotCookiebotDialog .CookieCard {
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+  border-bottom: none !important;
+ }
+}
+
 #CybotCookiebotDialog .CybotCookiebotScrollContainer {
  border-bottom: none !important;
 }
