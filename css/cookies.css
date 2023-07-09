@@ -16,3 +16,11 @@
  background-color: #141414 !important;
  border-color: #141414 !important;
 }
+
+#CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonCustomize, #CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection {
+ border-color: #141414 !important;
+}
+
+#CybotCookiebotDialogFooter .CybotCookiebotDialogBodyButton {
+ border-color: #141414 !important;
+}
