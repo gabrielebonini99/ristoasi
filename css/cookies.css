@@ -102,6 +102,10 @@
  background-color: #d4a465 !important;
 }
 
+#CybotCookiebotDialog form input[type="checkbox"][disabled]:checked + .CybotCookiebotDialogBodyLevelButtonSlider {
+ background-color: #D6D6D6 !important;
+}
+
 #CookiebotWidget .CookiebotWidget-consent-details button {
  color: inherit !important;
 }
