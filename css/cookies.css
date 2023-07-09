@@ -47,6 +47,10 @@
  }
 }
 
+#CybotCookiebotDialogDetailFooter {
+ display: none !important;
+}
+
 #CybotCookiebotDialog .CybotCookiebotScrollContainer {
  border-bottom: none !important;
 }
