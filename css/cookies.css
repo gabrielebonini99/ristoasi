@@ -32,3 +32,7 @@
 #CybotCookiebotDialog.CybotEdge #CybotCookiebotDialogBodyEdgeMoreDetails a {
  color: inherit !important;
 }
+
+.CookiebotWidget-main-logo {
+ display: none !important;
+}
