@@ -1,13 +1,3 @@
-#CybotCookiebotDialogHeader {
- display: none !important;
-}
-
-@media screen and (min-width: 1280px) {
- #CybotCookiebotDialog.CybotEdge .CybotCookiebotDialogContentWrapper {
-  max-width: 1300px !important;
- }
-}
-
 #CybotCookiebotDialogPoweredByText {
  display: none !important;
 }
