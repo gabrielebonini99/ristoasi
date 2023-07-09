@@ -24,6 +24,10 @@
  margin-left: 20px;
 }
 
+#CybotCookiebotDialogHeader {
+ border-bottom: none !important;
+}
+
 #CybotCookiebotDialogNav {
  display: none !important;
 }
