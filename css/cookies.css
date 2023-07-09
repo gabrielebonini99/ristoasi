@@ -11,3 +11,8 @@
 #CybotCookiebotDialogPoweredByText {
  display: none !important;
 }
+
+#CybotCookiebotDialogFooter #CybotCookiebotDialogBodyButtonAccept, #CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonAccept, #CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll {
+ background-color: #141414 !important;
+ border-color: #141414 !important;
+}
