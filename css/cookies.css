@@ -33,6 +33,10 @@
  opacity: 1 !important;
 }
 
+#CybotCookiebotDialogBodyLevelButtonsSelectPane label:not([for="CybotCookiebotDialogBodyLevelButtonNecessary"]) .CybotCookiebotDialogBodyLevelButtonDescription:hover {
+ color: inherit !important;
+}
+
 #CybotCookiebotDialog.CybotEdge #CybotCookiebotDialogBodyEdgeMoreDetails a {
  color: inherit !important;
 }
