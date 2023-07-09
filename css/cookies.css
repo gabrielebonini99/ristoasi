@@ -28,3 +28,7 @@
 #CybotCookiebotDialogFooter .CybotCookiebotDialogBodyButton:hover {
  opacity: 1 !important;
 }
+
+#CybotCookiebotDialog.CybotEdge #CybotCookiebotDialogBodyEdgeMoreDetails a {
+ color: inherit !important;
+}
