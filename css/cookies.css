@@ -98,6 +98,10 @@
  display: none;
 }
 
+#CybotCookiebotDialog input:checked + .CybotCookiebotDialogBodyLevelButtonSlider {
+ background-color: #d4a465 !important;
+}
+
 #CookiebotWidget .CookiebotWidget-consent-details button {
  color: inherit !important;
 }
