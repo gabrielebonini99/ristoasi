@@ -41,6 +41,12 @@
  }
 }
 
+@media screen and (min-width: 1280px) {
+ #CybotCookiebotDialog .CookieCard .CybotCookiebotDialogDetailBodyContentCookieTypeIntro {
+  padding-right: 9em;
+ }
+}
+
 #CybotCookiebotDialog .CybotCookiebotScrollContainer {
  border-bottom: none !important;
 }
