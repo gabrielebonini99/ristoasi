@@ -94,6 +94,10 @@
  color: inherit !important;
 }
 
+.CybotCookiebotDialogBodyLevelButton:focus {
+ display: none;
+}
+
 #CookiebotWidget .CookiebotWidget-consent-details button {
  color: inherit !important;
 }
