@@ -233,3 +233,7 @@ body {
  color: #898989;
  text-decoration: none;
 }
+
+.bc[overlay="blur"] ~ body {
+ overflow-x: hidden;
+}
