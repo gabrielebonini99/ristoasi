@@ -4,6 +4,10 @@ body {
  margin: 0;
 }
 
+.bc[overlay="blur"] ~ body {
+ overflow-x: hidden;
+}
+
 #header {
  display: flex;
  justify-content: space-between;
@@ -232,8 +236,4 @@ body {
 #footer a {
  color: #898989;
  text-decoration: none;
-}
-
-.bc[overlay="blur"] ~ body {
- overflow-x: hidden;
 }
