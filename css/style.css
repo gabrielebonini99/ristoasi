@@ -6,6 +6,7 @@ body {
 
 .cf[overlay="blur"] ~ body {
  filter: opacity(50%) !important;
+ overflow-x: hidden;
 }
 
 #header {
