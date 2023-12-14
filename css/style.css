@@ -4,7 +4,7 @@ body {
  margin: 0;
 }
 
-.cf[overlay="blur"] ~ body {
+iframe.db.dd.de[overlay="blur"] ~ body {
  filter: opacity(50%) !important;
  overflow-x: hidden;
 }
