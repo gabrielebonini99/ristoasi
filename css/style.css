@@ -9,6 +9,10 @@ iframe.db.dd.de[overlay="blur"] ~ body {
  overflow-x: hidden;
 }
 
+.dd[overlay=blur]~body, .dd[overlay=color]~body {
+ pointer-events: auto;
+}
+
 #header {
  display: flex;
  justify-content: space-between;
