@@ -10,7 +10,7 @@ body {
 }
 
 .dd[overlay=blur]~body, .dd[overlay=color]~body {
- pointer-events: auto;
+ pointer-events: auto !important;
 }
 
 #header {
