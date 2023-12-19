@@ -13,6 +13,28 @@ body {
  pointer-events: auto !important;
 }
 
+div#gt_float_wrapper {
+ z-index: 2147483631 !important;
+}
+
+.gt_float_switcher {
+ border-radius: 0 !important;
+ transition: none !important;
+}
+
+.gt_float_switcher .gt_options {
+ transition: none !important;
+}
+
+.gt_float_switcher .gt_options a {
+ transition: none !important;
+}
+
+.gt_float_switcher .gt_options a:hover {
+ background-color: #141414 !important;
+ color: #fff !important;
+}
+
 #header {
  display: flex;
  justify-content: space-between;
