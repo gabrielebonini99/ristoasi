@@ -40,3 +40,7 @@
   padding-right: 9em;
  }
 }
+
+#CybotCookiebotDialogDetailFooter {
+ display: none !important;
+}
