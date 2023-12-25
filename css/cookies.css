@@ -41,6 +41,11 @@
  }
 }
 
+#CybotCookiebotDialogBodyContentText {
+ padding-left: 25px;
+ padding-right: 25px;
+}
+
 #CybotCookiebotDialogDetailFooter {
  display: none !important;
 }
