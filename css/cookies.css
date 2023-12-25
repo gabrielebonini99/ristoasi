@@ -63,3 +63,12 @@
 #CybotCookiebotDialogDetailFooter {
  display: none !important;
 }
+
+#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll {
+ background-color: #141414 !important;
+ border-color: #141414 !important;
+}
+
+#CybotCookiebotDialogFooter .CybotCookiebotDialogBodyButton:hover {
+ opacity: 1 !important;
+}
