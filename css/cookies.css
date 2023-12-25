@@ -42,18 +42,18 @@
 }
 
 #CybotCookiebotDialogBodyContentTitle {
- padding-left: 25px;
- padding-right: 25px;
+ padding-left: 25px !important;
+ padding-right: 25px !important;
 }
 
 #CybotCookiebotDialogBodyContentText {
- padding-left: 25px;
- padding-right: 25px;
+ padding-left: 25px !important;
+ padding-right: 25px !important;
 }
 
 #CybotCookiebotDialogDetailBodyContentTextAbout {
- padding-left: 40px;
- padding-right: 40px;
+ padding-left: 40px !important;
+ padding-right: 40px !important;
 }
 
 #CybotCookiebotDialogDetailFooter {
