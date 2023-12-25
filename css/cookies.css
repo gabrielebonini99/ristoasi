@@ -51,6 +51,11 @@
  padding-right: 25px;
 }
 
+#CybotCookiebotDialogDetailBodyContentTextAbout {
+ padding-left: 40px;
+ padding-right: 40px;
+}
+
 #CybotCookiebotDialogDetailFooter {
  display: none !important;
 }
