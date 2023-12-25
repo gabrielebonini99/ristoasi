@@ -9,6 +9,10 @@
  margin-left: 20px;
 }
 
+#CybotCookiebotDialogHeader {
+ border-bottom: none !important;
+}
+
 #CybotCookiebotDialogBodyLevelButtonsSelectPane {
  border-bottom: none !important;
 }
@@ -20,5 +24,13 @@
 @media screen and (min-width: 601px) {
  #CybotCookiebotDialogBodyLevelButtonsSelectPane .CybotCookiebotDialogBodyLevelButtonWrapper:not(:last-of-type) {
   border-right: none !important;
+ }
+}
+
+@media screen and (min-width: 1280px) {
+ #CybotCookiebotDialog .CookieCard {
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+  border-bottom: none !important;
  }
 }
