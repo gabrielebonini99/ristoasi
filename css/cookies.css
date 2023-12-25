@@ -2,6 +2,10 @@
  display: none !important;
 }
 
+.CookiebotWidget-main-logo {
+ display: none !important;
+}
+
 #CybotCookiebotDialogPoweredbyLink {
  width: 100% !important;
 }
