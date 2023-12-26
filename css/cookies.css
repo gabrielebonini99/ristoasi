@@ -6,6 +6,10 @@
  display: none !important;
 }
 
+#CookiebotWidget {
+ display: none !important;
+}
+
 #CybotCookiebotDialogPoweredbyLink {
  width: 100% !important;
 }
