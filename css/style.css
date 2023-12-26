@@ -1,7 +1,11 @@
+* {
+ margin: 0;
+ box-sizing: border-box;
+}
+
 body {
  font-family: 'Josefin Sans', sans-serif;
  font-size: 14px;
- margin: 0;
 }
 
 .de[overlay=blur]~body {
@@ -251,8 +255,6 @@ body {
 #footer p {
  text-align: center;
  color: #fff;
- line-height: 24px;
- margin: 0;
 }
 
 #footer p.restaurants {
