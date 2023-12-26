@@ -71,7 +71,3 @@
 #CybotCookiebotDialogDetailFooter {
  display: none !important;
 }
-
-#CybotCookiebotDialogFooter .CybotCookiebotDialogBodyButton:hover {
- opacity: 1 !important;
-}
