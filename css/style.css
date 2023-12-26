@@ -226,6 +226,11 @@ body {
  cursor: pointer;
 }
 
+#widgets {
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr;
+}
+
 #footer {
  background-color: #141414;
  padding: 44px 0 42px;
