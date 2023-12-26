@@ -2,6 +2,10 @@
  display: none !important;
 }
 
+#CybotCookiebotDialogPoweredByText {
+ display: none !important;
+}
+
 .CookiebotWidget-main-logo {
  display: none !important;
 }
@@ -53,19 +57,18 @@
  }
 }
 
-#CybotCookiebotDialogBodyContentTitle {
- padding-left: 25px !important;
- padding-right: 25px !important;
+@media screen and (min-width: 1280px) {
+ #CybotCookiebotDialogBodyContentTitle, #CybotCookiebotDialogBodyContentText {
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+ }
 }
 
-#CybotCookiebotDialogBodyContentText {
- padding-left: 25px !important;
- padding-right: 25px !important;
-}
-
-#CybotCookiebotDialogDetailBodyContentTextAbout {
- padding-left: 40px !important;
- padding-right: 40px !important;
+@media screen and (min-width: 1280px) {
+ #CybotCookiebotDialogDetailBodyContentTextAbout {
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+ }
 }
 
 #CybotCookiebotDialogDetailFooter {
