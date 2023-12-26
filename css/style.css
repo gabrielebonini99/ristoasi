@@ -229,6 +229,15 @@ body {
 #widgets {
  display: grid;
  grid-template-columns: 1fr 1fr 1fr;
+ background-color: #141414;
+}
+
+#widgets h4 {
+ text-align: center;
+}
+
+#widgets p {
+ text-align: center;
 }
 
 #footer {
