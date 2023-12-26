@@ -238,6 +238,10 @@ body {
  margin: 0;
 }
 
+#footer p.restaurants {
+ padding-bottom: 20px;
+}
+
 #footer a {
  color: #898989;
  text-decoration: none;
