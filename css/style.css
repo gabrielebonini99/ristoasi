@@ -169,19 +169,13 @@ body {
 
 #body > ul li a {
  color: #000;
- display: block;
  font-size: 20px;
- margin: 0;
- padding: 0;
  text-align: center;
  text-decoration: none;
 }
 
 #body > ul li a img {
  border: 2px solid #1a1a1a;
- display: block;
- margin: 0;
- padding: 0;
 }
 
 #body > ul li a img.photo {
