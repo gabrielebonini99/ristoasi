@@ -181,7 +181,7 @@ body {
  display: grid;
  grid-template-columns: 1fr 1fr 1fr;
  background-color: #141414;
- padding-top: 75px;
+ padding-top: 50px;
 }
 
 #widgets h4 {
