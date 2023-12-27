@@ -194,7 +194,8 @@ body {
 #widgets a {
  text-align: center;
  font-size: 18px;
- color: #fff;
+ color: #898989;
+ text-decoration: none;
 }
 
 #footer {
