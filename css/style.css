@@ -185,14 +185,21 @@ body {
  margin-top: 50px;
 }
 
-#widgets h4 {
- text-align: center;
- color: #fff;
-}
-
 #widgets p {
  text-align: center;
  font-size: 20px;
+ color: #fff;
+}
+
+#restaurants {
+ display: grid;
+ grid-template-columns: 1fr 1fr;
+ background-color: #141414;
+}
+
+#restaurants p {
+ text-align: center;
+ font-size: 18px;
  color: #fff;
 }
 
@@ -205,10 +212,6 @@ body {
  text-align: center;
  font-size: 18px;
  color: #fff;
-}
-
-#footer p.restaurants {
- margin-bottom: 20px;
 }
 
 #footer a {
