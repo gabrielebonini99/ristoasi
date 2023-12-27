@@ -191,18 +191,6 @@ body {
  color: #fff;
 }
 
-#restaurants {
- display: grid;
- grid-template-columns: 1fr 1fr;
- background-color: #141414;
-}
-
-#restaurants p {
- text-align: center;
- font-size: 18px;
- color: #fff;
-}
-
 #footer {
  background-color: #141414;
  padding: 44px 0 42px;
