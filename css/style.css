@@ -181,8 +181,8 @@ body {
  display: grid;
  grid-template-columns: 1fr 1fr 1fr;
  background-color: #141414;
- padding-top: 50px;
- margin-top: 50px;
+ padding-top: 55px;
+ margin-top: 75px;
 }
 
 #widgets p {
@@ -199,7 +199,7 @@ body {
 
 #footer {
  background-color: #141414;
- padding: 44px 0 42px;
+ padding: 75px 0 55px;
 }
 
 #footer p {
@@ -209,7 +209,7 @@ body {
 }
 
 #footer p.restaurants {
- margin-bottom: 30px;
+ margin-bottom: 75px;
 }
 
 #footer a {
