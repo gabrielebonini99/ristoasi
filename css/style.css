@@ -191,6 +191,12 @@ body {
  color: #fff;
 }
 
+#widgets a {
+ text-align: center;
+ font-size: 18px;
+ color: #fff;
+}
+
 #footer {
  background-color: #141414;
  padding: 44px 0 42px;
@@ -203,7 +209,7 @@ body {
 }
 
 #footer p.restaurants {
- margin-bottom: 20px;
+ margin-bottom: 30px;
 }
 
 #footer a {
