@@ -57,8 +57,7 @@ body {
 }
 
 .article {
- margin: 0 auto;
- padding: 30px 30px 20px;
+ margin: 75px auto;
  width: 750px;
  text-align: justify;
 }
