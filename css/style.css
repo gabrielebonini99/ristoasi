@@ -213,6 +213,10 @@ body {
  margin-bottom: 75px;
 }
 
+#footer p.restaurants a.selected {
+ color: #fff;
+}
+
 #footer a {
  color: #898989;
  text-decoration: none;
