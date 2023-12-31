@@ -208,6 +208,8 @@ body {
 }
 
 #footer p.restaurants {
+ background-color: #000;
+ padding: 15px 0;
  margin-bottom: 75px;
 }
 
