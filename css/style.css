@@ -214,7 +214,8 @@ body {
 }
 
 #footer p.restaurants a.selected {
- color: #fff;
+ text-decoration-line: underline;
+ text-underline-offset: 35px;
 }
 
 #footer a {
