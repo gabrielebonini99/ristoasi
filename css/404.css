@@ -23,7 +23,6 @@ body {
 #error #text {
  position: relative;
  font-size: 40px;
- color: #000;
  top: 50%;
  right: 50%;
  transform: translate(50%,-50%);
