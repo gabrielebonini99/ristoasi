@@ -30,8 +30,7 @@ body {
 }
 
 #error #text p {
- margin: 0 !important;
- letter-spacing: .5px;
+ margin: 0;
 }
 
 #error #text span {
