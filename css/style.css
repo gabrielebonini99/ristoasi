@@ -43,6 +43,14 @@ body {
  text-underline-offset: 10px;
 }
 
+#banner {
+ margin-bottom: -4px;
+}
+
+#banner img {
+ width: 100%;
+}
+
 #body {
  text-align: center;
 }
@@ -92,88 +100,102 @@ body {
  line-height: 24px;
 }
 
-#banner {
- margin: 0 0 15px;
+.section {
+ padding: 72pt 0;
 }
 
-#banner img {
- width: 100%;
+.section:nth-child(odd) {
+  background-color: #f7f7f7;
 }
 
-#body > ul {
- margin: 0 auto;
- overflow: hidden;
- padding: 35px 0 0;
- width: 960px;
+.inner {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ flex-direction: column;
 }
 
-#body > ul li {
- display: block;
- float: left;
- margin: 0 10px 45px;
- padding: 0;
- width: 300px;
+@media (min-width: 992px) {
+
+ .inner {
+   flex-direction: row;
+ }
+
 }
 
-#body > ul li.gallery {
- margin-bottom: 20px;
-}
-
-#body > ul li a {
- color: #000;
- font-size: 20px;
+.media {
+ order: 1;
  text-align: center;
+}
+
+@media (min-width: 992px) {
+
+ .media {
+   width: 50%;
+   order: unset;
+ }
+
+}
+
+.content {
+ order: 2;
+}
+
+@media (min-width: 992px) {
+
+ .content {
+   padding: 0 16pt;
+   width: 50%;
+   order: unset;
+ }
+
+}
+
+.content h2 {
+ font-size: 26px;
+ font-weight: 400;
+ margin-bottom: 35px;
+}
+
+.content p {
+ font-size: 18px;
+ margin-bottom: 35px;
+}
+
+.content a {
+ display: inline-block;
+ border: 1px solid;
+ border-radius: 5px;
+ color: #000;
  text-decoration: none;
+ padding: 10px;
+ font-size: 20px;
+ transition: 650ms;
 }
 
-#body > ul li a img {
- border: 2px solid #1a1a1a;
-}
-
-#body > ul li a img.photo {
- filter: saturate(.5);
-}
-
-#body > ul li a span {
- display: block;
- margin: 0;
- padding: 33px 0 0;
-}
-
-#form {
- margin: 0 auto;
- padding-top: 35px;
- width: 620px;
-}
-
-#form input, #form textarea {
- border: 2px solid #252525;
- color: #252525;
- font-size: 16px;
- outline: none;
- margin: 0 0 37px;
- padding: 20px 10px;
- width: 596px;
-}
-
-#form textarea {
- height: 175px;
- resize: none;
-}
-
-#form .send {
- background-color: #252525;
- border: 2px solid #252525;
+.content a:hover {
  color: #fff;
- font-size: 16px;
- padding: 25px 28px 20px;
- margin: 0 0 37px;
+ border-color: #000;
+ background-color: #000;
 }
 
-#form .send:hover {
- background-color: #fff;
- color: #252525;
- cursor: pointer;
+.section:nth-child(even) .media {
+ order: 1;
+}
+
+@media (min-width: 992px) {
+
+ .section:nth-child(even) .media {
+  order: 1;
+ }
+
+}
+
+.container {
+  width: 88%;
+  max-width: 1080px;
+  margin: 0 auto;
+  position: relative;
 }
 
 #widgets {
@@ -181,7 +203,6 @@ body {
  grid-template-columns: 1fr 1fr 1fr;
  background-color: #000;
  padding-top: 55px;
- margin-top: 75px;
 }
 
 #widgets p {
