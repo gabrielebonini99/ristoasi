@@ -162,15 +162,8 @@ body {
  color: #fff;
  background-color: #292929;
  padding: 10px 75px;
+ border-radius: 50px;
  margin-bottom: 35px;
-}
-
-.content h2.one {
- border-radius: 50px 25px;
-}
-
-.content h2.two {
- border-radius: 25px 50px;
 }
 
 .content p {
