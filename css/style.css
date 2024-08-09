@@ -69,7 +69,7 @@ body {
 }
 
 .article {
- margin: 75px auto;
+ margin: 0 auto 75px;
  width: 750px;
  text-align: justify;
 }
