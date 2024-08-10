@@ -61,10 +61,8 @@ body {
 
 #body h1 {
  color: #fff;
- background-color: #323232;
- display: inline-block;
+ background-color: #141414;
  padding: 13px 28px 12px;
- margin-top: 50px;
  margin-bottom: 40px;
  font-size: 35px;
 }
