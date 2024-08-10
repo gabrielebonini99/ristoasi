@@ -179,13 +179,6 @@ body {
  text-decoration: none;
  padding: 10px;
  font-size: 20px;
- transition: 650ms;
-}
-
-.content a:hover {
- color: #fff;
- border-color: #000;
- background-color: #000;
 }
 
 .section:nth-child(even) .media {
