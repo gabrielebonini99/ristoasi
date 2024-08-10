@@ -119,40 +119,13 @@ body {
  flex-direction: column;
 }
 
-@media (min-width: 992px) {
-
- .inner {
-   flex-direction: row;
- }
-
-}
-
 .media {
  order: 1;
  text-align: center;
 }
 
-@media (min-width: 992px) {
-
- .media {
-   width: 50%;
-   order: unset;
- }
-
-}
-
 .content {
  order: 2;
-}
-
-@media (min-width: 992px) {
-
- .content {
-   padding: 0 16pt;
-   width: 50%;
-   order: unset;
- }
-
 }
 
 .content h2 {
@@ -183,14 +156,6 @@ body {
 
 .section:nth-child(even) .media {
  order: 1;
-}
-
-@media (min-width: 992px) {
-
- .section:nth-child(even) .media {
-  order: 1;
- }
-
 }
 
 .container {
@@ -257,4 +222,27 @@ body {
 #footer a.leftright {
  padding-left: 5px;
  padding-right: 5px;
+}
+
+@media (min-width: 992px) {
+
+.inner {
+ flex-direction: row;
+}
+
+.media {
+ width: 50%;
+ order: unset;
+}
+
+.content {
+ padding: 0 16pt;
+ width: 50%;
+ order: unset;
+}
+
+.section:nth-child(even) .media {
+ order: 1;
+}
+
 }
