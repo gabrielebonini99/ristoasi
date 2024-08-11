@@ -35,15 +35,18 @@ body {
 #navigation a {
  transition-duration: 0.3s;
  transition-timing-function: linear;
- color: #fff;
+ color: #898989;
  text-decoration: none;
  padding: 0 10px;
 }
 
 #navigation a:hover {
  background-color: #141414;
- color: #898989;
  padding: 24px 10px 23px;
+}
+
+#navigation a.selected {
+ color: #fff;
 }
 
 #banner {
