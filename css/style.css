@@ -191,8 +191,8 @@ h1 {
 }
 
 .accordion-item-header::after {
- content: "\2212";
- font-size: 30px;
+ content: "?";
+ font-size: 32px;
  position: absolute;
  right: 0;
 }
