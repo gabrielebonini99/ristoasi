@@ -203,6 +203,7 @@ h1 {
 }
 
 .accordion-item-body p {
+ font-weight: 300;
  line-height: 24px;
 }
 
