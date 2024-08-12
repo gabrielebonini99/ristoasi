@@ -190,7 +190,7 @@ h1 {
  font-size: 25px;
 }
 
-.accordion-item-header .three::after {
+.accordion-item-header.three::after {
  content: "🕑";
  font-size: 32px;
  position: absolute;
