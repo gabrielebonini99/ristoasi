@@ -108,7 +108,13 @@ h1 {
 }
 
 .section:nth-child(odd) {
-  background-color: #f7f7f7;
+ background-color: #f7f7f7;
+}
+
+.container {
+ width: 88%;
+ max-width: 1080px;
+ margin: 0 auto;
 }
 
 .inner {
@@ -156,12 +162,6 @@ h1 {
 
 .section:nth-child(even) .media {
  order: 1;
-}
-
-.container {
-  width: 88%;
-  max-width: 1080px;
-  margin: 0 auto;
 }
 
 
