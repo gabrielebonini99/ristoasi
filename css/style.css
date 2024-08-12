@@ -174,13 +174,13 @@ h1 {
 
 .accordion-item {
  background-color: #f7f7f7;
+ padding: 20px;
  margin-bottom: 35px;
  border-radius: 12px;
 }
 
 .accordion-item-header {
  display: flex;
- padding: 20px;
  font-size: 25px;
  font-weight: 600;
  align-items: center;
@@ -191,11 +191,10 @@ h1 {
  content: "\2212";
  font-size: 30px;
  position: absolute;
- right: 16px;
+ right: 0;
 }
 
 .accordion-item-body {
- padding: 1rem;
  line-height: 1.5rem;
 }
 
