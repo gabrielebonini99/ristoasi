@@ -183,6 +183,7 @@ h1 {
  display: flex;
  align-items: center;
  position: relative;
+ margin-bottom: 30px;
 }
 
 .accordion-item-header p {
