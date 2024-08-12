@@ -175,7 +175,7 @@ h1 {
 .accordion-item {
  background-color: #f7f7f7;
  margin-bottom: 35px;
- border-radius: 0.5rem;
+ border-radius: 12px;
 }
 
 .accordion-item-header {
