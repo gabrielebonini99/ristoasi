@@ -47,6 +47,7 @@ body {
 
 #navigation a.selected {
  color: #fff;
+ background-color: transparent;
 }
 
 #banner {
