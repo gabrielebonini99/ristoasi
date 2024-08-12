@@ -181,10 +181,13 @@ h1 {
 
 .accordion-item-header {
  display: flex;
- font-size: 25px;
- font-weight: 600;
  align-items: center;
  position: relative;
+}
+
+.accordion-item-header p {
+ font-size: 25px;
+ font-weight: 600;
 }
 
 .accordion-item-header::after {
@@ -194,7 +197,7 @@ h1 {
  right: 0;
 }
 
-.accordion-item-body {
+.accordion-item-body p {
  line-height: 24px;
 }
 
