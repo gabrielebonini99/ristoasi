@@ -125,6 +125,7 @@ body {
 
 .content {
  order: 2;
+ text-align: center;
 }
 
 .content h2 {
