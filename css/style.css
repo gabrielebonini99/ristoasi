@@ -198,6 +198,11 @@ h1 {
  right: 0;
 }
 
+.accordion-item-body {
+ padding-left: 15px;
+ padding-right: 15%;
+}
+
 .accordion-item-body p {
  line-height: 24px;
 }
