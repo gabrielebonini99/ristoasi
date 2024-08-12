@@ -183,19 +183,17 @@ h1 {
 .accordion-item-header {
  padding: 0.5rem 3rem 0.5rem 1rem;
  min-height: 3.5rem;
- line-height: 1.25rem;
  font-weight: bold;
  display: flex;
  align-items: center;
  position: relative;
- cursor: pointer;
 }
 
 .accordion-item-header::after {
  content: "\2212";
- font-size: 2rem;
+ font-size: 30px;
  position: absolute;
- right: 1rem;
+ right: 16px;
 }
 
 .accordion-item-body {
