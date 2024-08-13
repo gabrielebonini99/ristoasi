@@ -195,7 +195,7 @@ h1 {
 }
 
 .accordion-item-header.two::after {
- content: "🌍";
+ content: "🌐";
 }
 
 .accordion-item-header.three::after {
