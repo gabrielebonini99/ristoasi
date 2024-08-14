@@ -203,11 +203,15 @@ h1 {
 }
 
 .accordion-item-header.four::after {
- content: "📅";
+ content: "📧";
 }
 
 .accordion-item-header.five::after {
- content: "📧";
+ content: "🍴";
+}
+
+.accordion-item-header.six::after {
+ content: "📅";
 }
 
 .accordion-item-body {
