@@ -207,7 +207,7 @@ h1 {
 }
 
 .accordion-item-header.five::after {
- content: "🍴";
+ content: "🍝";
 }
 
 .accordion-item-header.six::after {
