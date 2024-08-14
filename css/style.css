@@ -206,10 +206,6 @@ h1 {
  content: "📧";
 }
 
-.accordion-item-header.five::after {
- content: "🍝";
-}
-
 .accordion-item-header.six::after {
  content: "📅";
 }
