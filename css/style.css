@@ -221,6 +221,7 @@ h1 {
 }
 
 .accordion-item-body ul {
+ margin-top: 15px;
  padding-inline-start: 25px;
 }
 
