@@ -194,10 +194,6 @@ h1 {
  right: 0;
 }
 
-.accordion-item-header.two::after {
- content: "🌐";
-}
-
 .accordion-item-header.three::after {
  content: "🕑";
 }
