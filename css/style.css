@@ -327,10 +327,6 @@ h1 {
  display: none;
 }
 
-}
-
-@media screen and (max-width: 500px) {
-
 #widgets {
  grid-template-columns: 1fr;
 }
