@@ -277,27 +277,6 @@ h1 {
  padding-right: 5px;
 }
 
-@media screen and (max-width: 1130px) {
-
-.accordion {
- margin-left: 35px;
- margin-right: 35px;
-}
-
-#widgets {
- grid-template-columns: 1fr 1fr;
-}
-
-.cookies {
- display: none;
-}
-
-#footer p.restaurants {
- display: none;
-}
-
-}
-
 @media screen and (min-width: 992px) {
 
 .inner {
@@ -317,6 +296,27 @@ h1 {
 
 .section:nth-child(even) .media {
  order: 1;
+}
+
+}
+
+@media screen and (max-width: 1130px) {
+
+.accordion {
+ margin-left: 35px;
+ margin-right: 35px;
+}
+
+#widgets {
+ grid-template-columns: 1fr 1fr;
+}
+
+.cookies {
+ display: none;
+}
+
+#footer p.restaurants {
+ display: none;
 }
 
 }
