@@ -296,6 +296,8 @@ h1 {
  display: none;
 }
 
+}
+
 @media screen and (min-width: 992px) {
 
 .inner {
@@ -315,6 +317,18 @@ h1 {
 
 .section:nth-child(even) .media {
  order: 1;
+}
+
+}
+
+@media screen and (max-width: 500px) {
+
+#widgets {
+ grid-template-columns: 1fr;
+}
+
+.social {
+ display: none;
 }
 
 }
