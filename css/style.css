@@ -321,7 +321,7 @@ h1 {
 
 }
 
-@media screen and (min-width: 850px) {
+@media screen and (max-width: 850px) {
 
 #banner {
  display: none;
