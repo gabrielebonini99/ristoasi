@@ -277,7 +277,12 @@ h1 {
  padding-right: 5px;
 }
 
-@media screen and (max-width: 1120px) {
+@media screen and (max-width: 1130px) {
+
+.accordion {
+ margin-left: 35px;
+ margin-right: 35px;
+}
 
 #widgets {
  grid-template-columns: 1fr 1fr;
