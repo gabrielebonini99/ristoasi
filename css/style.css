@@ -300,11 +300,11 @@ h1 {
 
 }
 
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 935px) {
 
 .article {
- margin-left: 25px;
- margin-right: 25px;
+ margin-left: 35px;
+ margin-right: 35px;
 }
 
 }
