@@ -353,4 +353,9 @@ h1 {
  color: #fff;
 }
 
+#footer-mobile a {
+ color: #898989;
+ text-decoration: none;
+}
+
 }
