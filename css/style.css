@@ -148,7 +148,8 @@ h1 {
 
 .content p {
  font-size: 18px;
- margin-bottom: 35px;
+ max-width: 75%;
+ margin: 0 auto 35px;
 }
 
 .content a {
@@ -292,6 +293,12 @@ h1 {
  padding: 0 16pt;
  width: 50%;
  order: unset;
+}
+
+.content p {
+ max-width: 100%;
+ margin-left: 0;
+ margin-right: 0;
 }
 
 .section:nth-child(even) .media {
