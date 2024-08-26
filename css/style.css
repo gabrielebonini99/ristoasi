@@ -309,6 +309,10 @@ h1 {
 
 @media screen and (max-width: 935px) {
 
+#banner {
+ display: none;
+}
+
 .article {
  margin-left: 35px;
  margin-right: 35px;
