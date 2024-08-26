@@ -41,8 +41,7 @@ body {
 }
 
 #navigation a:hover {
- background-color: #141414;
- padding: 24px 15px 23px;
+ color: #c4c4c4;
 }
 
 #navigation a.selected {
