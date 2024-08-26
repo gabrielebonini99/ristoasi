@@ -278,6 +278,10 @@ h1 {
  padding-right: 5px;
 }
 
+#footer-mobile {
+ display: none;
+}
+
 @media screen and (min-width: 992px) {
 
 .inner {
@@ -332,7 +336,7 @@ h1 {
  grid-row-gap: 25px;
 }
 
-#footer p.restaurants {
+#footer {
  display: none;
 }
 
