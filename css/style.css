@@ -12,15 +12,6 @@ body {
  font-size: 16px;
 }
 
-.de[overlay=blur]~body {
- filter: opacity(50%) !important;
- overflow-x: hidden;
-}
-
-.dd[overlay=blur]~body, .dd[overlay=color]~body {
- pointer-events: auto !important;
-}
-
 #header {
  display: flex;
  justify-content: space-between;
