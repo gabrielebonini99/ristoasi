@@ -325,6 +325,10 @@ h1 {
  margin-right: 35px;
 }
 
+#bar {
+ display: none;
+}
+
 #footer {
  display: none;
 }
