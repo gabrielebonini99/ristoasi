@@ -322,6 +322,7 @@ h1 {
 #header {
  justify-content: space-between;
  column-gap: normal;
+ padding: 20px 20px 15px;
 }
 
 #header .nav-mobile {
