@@ -41,6 +41,10 @@ body {
  background-color: transparent;
 }
 
+#header .nav-mobile {
+ display: none;
+}
+
 #banner {
  margin-bottom: -4px;
 }
