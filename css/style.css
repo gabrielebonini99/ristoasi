@@ -17,7 +17,7 @@ body {
  justify-content: center;
  column-gap: 30%;
  background-color: #000;
- padding: 20px 35px 15px 25px;
+ padding: 20px 20px 15px 40px;
 }
 
 #navigation {
@@ -319,6 +319,11 @@ h1 {
  display: none;
 }
 
+#header {
+ justify-content: space-between;
+ column-gap: normal;
+}
+
 #header .nav-mobile {
  display: block;
 }
@@ -354,7 +359,7 @@ h1 {
  display: flex;
  position: absolute;
  align-items: center;
- top: 30px;
+ top: 35px;
  right: 20px;
  width: 26px;
  height: 26px;
