@@ -101,10 +101,11 @@ h1 {
 
 .section {
  padding: 100px 0;
+ background-color: #f7f7f7;
 }
 
 .section:nth-child(odd) {
- background-color: #f7f7f7;
+ background-color: #eee;
 }
 
 .container {
