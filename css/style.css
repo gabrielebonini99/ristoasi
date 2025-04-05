@@ -12,6 +12,10 @@ body {
  font-size: 16px;
 }
 
+.fh[overlay=blur]~body, .fh[overlay=color]~body {
+ pointer-events: auto !important;
+}
+
 #header {
  display: flex;
  justify-content: center;
