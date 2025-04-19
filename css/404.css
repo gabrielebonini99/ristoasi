@@ -33,18 +33,19 @@ p {
 
 .go-back a {
  display: inline-block;
- margin-top: 3em;
+ margin-top: 48px;
  padding: 10px;
  color: #1B1A1A;
  font-weight: 700;
- border: solid 2px #e7e7e7;
+ letter-spacing: 2px;
  text-decoration: none;
- font-size: 16px;
- letter-spacing: 0.1em;
+ border: solid 2px #1B1A1A;
+ transition: all 0.3s ease-in-out;
 }
 
 .go-back a:hover {
- border-color: #1B1A1A;
+ color: #fff;
+ background-color: #1B1A1A;
 }
 
 @media screen and (min-width: 768px) {
