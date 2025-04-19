@@ -23,7 +23,7 @@ h2 {
  font-size: 20px;
  font-weight: 400;
  color: #424242;
- letter-spacing: 1.5px;
+ letter-spacing: 1px;
 }
 
 p {
@@ -31,21 +31,9 @@ p {
  line-height: 1.5;
 }
 
-.go-back a {
- display: inline-block;
- margin-top: 48px;
- padding: 10px;
- color: #1B1A1A;
- font-weight: 700;
- letter-spacing: 2px;
+a {
+ color: #363636;
  text-decoration: none;
- border: solid 2px #1B1A1A;
- transition: all 0.3s ease-in-out;
-}
-
-.go-back a:hover {
- color: #fff;
- background-color: #1B1A1A;
 }
 
 @media screen and (min-width: 768px) {
