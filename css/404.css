@@ -36,6 +36,10 @@ a {
  text-decoration: none;
 }
 
+a.title {
+ font-size: 30px;
+}
+
 @media screen and (min-width: 768px) {
 
 body {
