@@ -36,7 +36,8 @@ a {
  text-decoration: none;
 }
 
-a.title {
+p.title {
+ color: #363636;
  font-size: 30px;
 }
 
