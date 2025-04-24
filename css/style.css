@@ -137,10 +137,10 @@ h1 {
 
 .content h2 {
  display: inline-block;
+ color: #fff;
  font-size: 26px;
  font-weight: 400;
- color: #fff;
- background-color: #292929;
+ background: radial-gradient(circle at 24.1% 68.8%, rgb(50, 50, 50) 0%, rgb(0, 0, 0) 99.4%);
  padding: 10px 75px;
  border-radius: 50px;
  margin-bottom: 35px;
