@@ -12,60 +12,6 @@ body {
  font-size: 16px;
 }
 
-.popup {
- position: fixed;
- top: 0;
- width: 100vw;
- height: 100vh;
- background-color: rgba(0, 0, 0, .3);
- display: grid;
- place-content: center;
- opacity: 0;
- pointer-events: none;
- transition: 200ms ease-in-out opacity;
-}
-
-.popup-content {
- width: clamp(300px, 90vw, 500px);
- background-color: #fff;
- padding: clamp(1.5rem, 100vw, 3rem);
- box-shadow: 0 0 .5em rgba(0, 0, 0, .5);
- border-radius: .5em;
- opacity: 0;
- transform: translateY(20%);
- transition: 200ms ease-in-out opacity, 200ms ease-in-out transform;
- position: relative;
-}
-
-.popup h4 {
- font-size: 25px;
- margin-bottom: 20px;
-}
-
-.popup p {
- margin-bottom: 0;
-}
-
-.popup span {
- position: absolute;
- top: 2rem;
- right: 2rem;
- line-height: 1;
- cursor: pointer;
- user-select: none;
- font-size: 25px;
-}
-
-.popup span:active {
- transform: scale(.9);
-}
-
-.showPopup {
- opacity: 1;
- transform: translateY(0);
- pointer-events: all;
-}
-
 .fh[overlay=blur]~body, .fh[overlay=color]~body {
  pointer-events: auto !important;
 }
