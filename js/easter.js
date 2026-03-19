@@ -19,8 +19,7 @@
             font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             font-size: 20px;
             font-weight: 800;
-            color: black; 
-            z-index: 2147483647;
+            color: black;
             pointer-events: none;
             display: flex;
             align-items: center;
@@ -54,7 +53,6 @@
 
         .easter-target {
             position: fixed;
-            z-index: 2147483646;
             cursor: pointer;
             user-select: none;
             opacity: 0;
