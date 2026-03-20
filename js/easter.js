@@ -81,7 +81,7 @@
     counter.id = 'bunny-counter';
     counter.innerHTML = `
         <span id="bunny-num">0</span>
-        <span id="bunny-instructions">Trova 10 coniglietti per vincere</span>
+        <span id="bunny-instructions">Trova 10 coniglietti</span>
     `;
     document.body.appendChild(counter);
 
