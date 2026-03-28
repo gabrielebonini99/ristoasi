@@ -126,6 +126,10 @@ h1 {
   text-align: center;
 }
 
+.media img {
+  filter: drop-shadow(1px 1px 1px #333);
+}
+
 .content {
   order: 2;
   text-align: center;
